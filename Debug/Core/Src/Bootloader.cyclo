@@ -1,0 +1,10 @@
+Bootloader.c:17:11:Bootloader_enumRecHostCommands	3
+Bootloader.c:42:13:BL_Write_Data	2
+Bootloader.c:69:16:BL_Address_Varification	5
+Bootloader.c:85:17:BL_CRC_verfiy	3
+Bootloader.c:106:13:BL_Send_ACK	1
+Bootloader.c:113:13:BL_Send_NACK	1
+Bootloader.c:118:9:Bootloader_uint8FlashErase	6
+Bootloader.c:166:16:FlashMemory_Paylaod_Write	3
+Bootloader.c:197:6:Bootloader_voidJumpToApp	1
+Bootloader.c:212:9:Bootloader_voidCheckStartCommand	7
